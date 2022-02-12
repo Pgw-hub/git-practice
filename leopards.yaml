@@ -15,3 +15,4 @@ members:
 - main 2
 - test2_1
 - test3_1
+- leopard 로컬에 수정. 과연 수정한 파일이 겹치지 않으면 pull할떄 문제가 없을까?

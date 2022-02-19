@@ -14,3 +14,4 @@ members:
 fetch : this
 reset vs revert
 reset
+commit count test

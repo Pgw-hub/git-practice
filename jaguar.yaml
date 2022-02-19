@@ -7,3 +7,4 @@ members:
 - Harvey
 - Myles
 - 만약 팀원1이 코드를 수정하고 push
+- HEAD^, HEAD~, git checkout HEAD^^

@@ -14,3 +14,4 @@ members:
 fetch : this
 Head_test new branch
 private merge test
+Head_test pull new branch
